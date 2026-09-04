@@ -1,2 +1,5 @@
 # odin-recipes
-Repositorio para projetos do TheOdinProject
+Projeto de Receitas do TheOdinProject
+
+## Tecnologias
+HTML
